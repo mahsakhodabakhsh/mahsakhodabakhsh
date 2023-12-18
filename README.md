@@ -1,5 +1,5 @@
 <h1 align="left"> Mahsa Khodabakhsh</h1>
-<h3 align="center">🌱 I'm a biomedical engineering student at Amirkabir University of Technology. My research interests lie in the fields of neuroscience, EEG signal processing and Computational Neuroscience.</h3>
+<h3 align="left">🌱 I'm a biomedical engineering student at Amirkabir University of Technology. My research interests lie in the fields of neuroscience, EEG signal processing and Computational Neuroscience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsakhodabakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="mahsakhodabakhsh" /> </p>
 
