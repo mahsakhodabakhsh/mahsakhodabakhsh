@@ -1,4 +1,4 @@
-![image](https://github.com/mahsakhodabakhsh/mahsakhodabakhsh/assets/154222613/1c704eff-d226-4fd1-97bd-57373f816fc7)<h1 align="left"> Mahsa Khodabakhsh</h1>
+<h1 align="left"> Mahsa Khodabakhsh</h1>
 <h3 align="left">🌱 I'm a biomedical engineering student at Amirkabir University of Technology. My research interests lie in the fields of neuroscience, EEG signal processing and Computational Neuroscience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsakhodabakhsh&label=Profile%20views&color=0e75b6&style=flat" alt="mahsakhodabakhsh" /> </p>
